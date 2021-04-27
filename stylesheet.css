@@ -27,6 +27,7 @@ header {
 }
 main {
   background-image: url("images/bg-intro-mobile.png");
+  background-size: cover;
   background-color: hsl(0, 100%, 74%);
   text-align: center;
   height: 100vh;
